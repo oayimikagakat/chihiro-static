@@ -3,10 +3,10 @@ id,name
 1002,Kagayaku Sekai no Mahou
 1003,We're the friends!
 1004,Message
-1005,Susume☆Otome ~jewel parade~ (CUTE VERSION)
-1006,Susume☆Otome ~jewel parade~ (COOL VERSION)
-1007,Susume☆Otome ~jewel parade~ (PASSION VERSION)
-1008,Susume☆Otome ~jewel parade~
+1005,Susume Otome ~jewel parade~ (CUTE VERSION)
+1006,Susume Otome ~jewel parade~ (COOL VERSION)
+1007,Susume Otome ~jewel parade~ (PASSION VERSION)
+1008,Susume Otome ~jewel parade~
 1009,Atashi Ponkotsu Android
 1010,Nation Blue
 1011,Orange Sapphire
@@ -22,17 +22,17 @@ id,name
 1021,Tsubomi
 1022,Ashita Mata Aeru yo ne
 1023,Saite Jewel
-1024,Kimi ni Ippai☆
+1024,Kimi ni Ippai
 1025,Near to You (CUTE VERSION)
 1026,Near to You (COOL VERSION)
 1027,Near to You (PASSION VERSION)
 1028,Near to You
 1029,EVERMORE
-1030,Treasure☆
-1031,Take me☆Take you
-1032,Take me☆Take you
+1030,Treasure
+1031,Take me Take you
+1032,Take me Take you
 1033,Kimi no Soba de Zutto
-1034,Halloween♥Code
+1034,Halloween Code
 1035,Akikaze ni Te o Futte
 1036,Koi ga Saku Kisetsu
 1037,Fuyuzora Precious
@@ -72,7 +72,7 @@ id,name
 2006,Mouretsu★Yonaoshi Guilty!
 2007,Kawaii make MY day!
 2008,Souyoku no Aria
-2009,Twin☆kle★Tail
+2009,Twinkle Tail
 2010,Trinity Field
 2011,Bi ni Irisai o Ugatsu
 2012,Virgin Love
@@ -102,10 +102,10 @@ id,name
 2036,Orange Time
 3001,S(mile)ING!
 3002,Never say never
-3003,Mitsuboshi☆☆★
+3003,Mitsuboshi
 3004,Kazeiro Melody
 3005,Tsubomi Yumemiru Rapsodia ~Alma no Michibiki~
-3006,Marshmallow☆Kiss
+3006,Marshmallow Kiss
 3007,Anzu no Uta
 3008,You're stars shine on me
 3009,DOKIDOKI Rhythm
@@ -132,7 +132,7 @@ id,name
 3030,Miracle Telepathy
 3031,Bright Blue
 3032,Kimochi ii yo ne Ittoushou!
-3033,Ki-ma-gu-re☆Cafe au lait!
+3033,Ki-ma-gu-re Cafe au lait!
 3034,Hotel Moonside
 3035,Minna no Kimochi
 3036,in fact
@@ -153,17 +153,17 @@ id,name
 3051,Onna no Michi wa Hoshi no Michi
 3052,Tani no Soko de Saku Hana wa
 3053,Mori no Kuni Kara
-3054,Sugar Heart☆Revolution
+3054,Sugar Heart Revolution
 3055,Claw My Heart
 3056,Arakane no Utsuwa
 3057,OTAHEN Anthem
 3058,Haru Koi Frame
 3059,Watashiiro no Prelude
-3060,Oyamatope♪
+3060,Oyamatope
 3061,Sekai Metsubou or KISS
 3062,Dangan Survivor
 3063,Shinobi 4.0 Ninja no Susume
-3064,Priceless DounuCyu♡
+3064,Priceless DounuCyu
 3065,Omoide janai Kyou o
 3066,Hatsuyume o Anata to
 3067,Milky Mode
@@ -174,9 +174,9 @@ id,name
 3201,Hamikami days
 3202,AnemoneStar
 3203,Step!
-3204,Nyan to☆Spectacle
-3205,SUPERLOVE☆
-3206,NUDIE★
+3204,Nyan to Spectacle
+3205,SUPERLOVE
+3206,NUDIE
 3207,Sora to Kaze to Koi no Waltz
 3208,Sparkling Girl
 3209,Okashi na Kuni no Okashiyasan
@@ -202,7 +202,7 @@ id,name
 5021,Trancing Pulse
 5022,Kokoro Moyou
 5024,Nagareboshi Kiseki
-5025,MAGIC☆
+5025,MAGIC
 5026,Nocturne
 5027,shabon song
 5028,STORY
@@ -211,14 +211,15 @@ id,name
 5031,Lunatic Show
 5032,Kira! Mankai Smile
 5033,Etude wa Ikkyoku dake
-5034,SUN♡FLOWER
+5034,SUN FLOWER
 5035,Kyun Kyun Max
 5036,Max Beat
-5037,TAKAMARI☆ CLIMAXXX!!!!!
+5037,TAKAMARI CLIMAXXX!!!!!
 5038,Sing the Prologue♪
 5039,Diamond Attention
 5040,Kimi no Stage Ishou Hontou wa...
 5043,Snow Love
+5045,Itoshiisaa
 7003,shabon song ~For SS3A rearrange Mix~
 7004,Nocturne ~For SS3A rearrange Mix~
 7005,Flip Flop ~For SS3A rearrange Mix~
@@ -245,7 +246,7 @@ id,name
 8013,LIFE
 8014,Momoiro Kataomoi
 8015,Hello Especially
-8016,Zenryoku☆Summer!
+8016,Zenryoku Summer!
 8017,Amairo no Kami no Otome
 8018,Kurenai
 8019,Humming ga Kikoeru
@@ -292,7 +293,7 @@ id,name
 9001,Todoke! Idol
 9002,Snow Wings
 9003,Tulip
-9004,Hi-fi☆Days
+9004,Hi-fi Days
 9005,Seizon Honnou Valkyria
 9006,Junjou Midnight Densetsu
 9007,Love Destiny
