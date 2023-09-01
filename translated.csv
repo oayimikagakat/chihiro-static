@@ -17,7 +17,6 @@ id,name
 1016,Gokigen Party Night (COOL VERSION)
 1017,Gokigen Party Night (PASSION VERSION)
 1018,Gokigen Party Night
-1019,Gokigen Party Night
 1020,Absolute NIne
 1021,Tsubomi
 1022,Ashita Mata Aeru yo ne
@@ -30,13 +29,11 @@ id,name
 1029,EVERMORE
 1030,Treasure
 1031,Take me Take you
-1032,Take me Take you
 1033,Kimi no Soba de Zutto
 1034,Halloween Code
 1035,Akikaze ni Te o Futte
 1036,Koi ga Saku Kisetsu
 1037,Fuyuzora Precious
-1038,Kimi no Soba de Zutto
 1039,Koikaze -Hanaba-
 1040,always
 1041,Frost
@@ -45,8 +42,6 @@ id,name
 1044,Spring Screaming
 1045,Sakura no Kaze
 1046,HARURUNRUN
-1047,Koi ga Saku Kisetsu
-1048,always
 1049,Gin no Iruka to Atsui Kaze
 1050,Trust me
 1051,Kimi e no Uta
@@ -60,16 +55,21 @@ id,name
 1059,Sayonara Andromeda
 1060,Never ends
 1061,Nando demo Waraou
+1062,White again
 1063,Tonde Icchaitai no
+1064,Let's Sail Away!!!
+1065,EVERLASTING
 1066,Kiseki no Akashi
 1067,VOYAGER
 1068,Koko kara Mirai e
 1069,CoCoNatsu Natsu Natsu Holiday
 1070,Mitomete Kurenakuta tte Ii yo
 1075,Dance Dance Dance
+1076,Dreamy Anniversary
+1077,Starry Night
+1078,Next Chapter
 1201,Onegai! Cinderella (GRAND VERSION)
-1901,Onegai! Cinderella
-1902,BEYOND THE STARLIGHT
+1202,Doremi Factory (U419 Version)
 2001,Love Letter
 2002,Jet to the Future
 2003,AnKira!? Kyousoukyoku
@@ -106,16 +106,30 @@ id,name
 2034,Hohoemi Diary
 2035,Hero Versus Reinanjou
 2036,Orange Time
+2037,EVIL LIVE
+2039,Just Us Justice
+2040,Hungry Bambi
+2041,Home Sweet Home
 2042,Parira
+2043,Secret Mirage
 2044,Red Sole
+2045,Drastic Melody
 2046,Kabocha Hime
 2047,Ochiru Kajitsu
 2048,Demolish
 2049,Love-U-da Triangle
 2050,Mahou no Makura
+2051,Heart Boiled Wars
 2052,Chikara! Is! Power!!
 2053,Summer Cider
 2054,Kaidan Mairi
+2055,UNIQU3 VOICES!!!
+2056,Isosceles
+2057,N.O.R. ~Notes of Revolution~ Kakumei ni Tsuite no Oboegaki
+2058,Sayakeki Hana no Inochi ni
+2059,Zenkai! Miracle Adventure!
+2060,Night Time Wander
+2061,Note no Naka no Terrarium
 3001,S(mile)ING!
 3002,Never say never
 3003,Mitsuboshi
@@ -186,9 +200,13 @@ id,name
 3068,Utakata no Aeon
 3069,Manganjouju Miko no Kamidanomi!
 3070,HEADSHOT
+3071,Beat of the Night
 3072,14-Heibei ni Souvenir
 3073,Sou O Sol
+3074,Packing Her Favorite
 3075,Tokimeki wa Akakute Amai
+3076,Sign of Hope
+3077,Nautilus Sonar
 3201,Hamikami days
 3202,AnemoneStar
 3203,Step!
@@ -200,8 +218,12 @@ id,name
 3209,Okashi na Kuni no Okashiyasan
 3210,Bloody Festa
 3211,Aozora Relation
+3212,PANDEMIC ALONE
 3213,Nyowa Nyoworld
+3214,cherry merry cherry
 3215,Slow Life Fantasy
+3216,Frozen Tears
+3218,Usubeni
 5001,Star!!
 5002,Yuubae Present
 5003,GOIN'!!!
@@ -238,9 +260,19 @@ id,name
 5038,Sing the Prologue♪
 5039,Diamond Attention
 5040,Kimi no Stage Ishou Hontou wa...
+5041,Blooming Days
 5042,Akimeite Ding Dong Dang!
 5043,Snow Love
+5044,Life is HaRMONY
 5045,Itoshiisaa
+5046,Shine In The Sky☆
+5047,Yorimichi Little Star
+5048,Natsukko Ondo
+5049,Good Day Good Night
+5050,Zero to One!!
+5052,Sayonara Aloha
+5503,Mujuuryoku Shuttle
+5504,BEYOND THE STARLIGHT
 7003,shabon song ~For SS3A rearrange Mix~
 7004,Nocturne ~For SS3A rearrange Mix~
 7005,Flip Flop ~For SS3A rearrange Mix~
@@ -251,7 +283,7 @@ id,name
 7010,Near to You -PicoPico D'n'B Remix-
 7011,CINDERELLA NONSTOP MEDLEY -DJ KOO Mix-
 7012,TAKU INOUE SELECTION!!!! feat.DJ KOO
-7013,Onegai! Cinderella ～Gorgeous Tropical Ver.～ 
+7013,Onegai! Cinderella ~Gorgeous Tropical Ver.~
 8001,Kimi to Boku no Mirai
 8002,Angel Dream
 8003,Natsuiro
@@ -310,24 +342,34 @@ id,name
 8057,Harmonics
 8058,Extra Revolution
 8059,Adabana Necromancy
+8060,REVENGE
 8061,Taiga yo Tomo ni Naitekure
 8062,Hare Hare Yukai
+8063,God knows...
 8064,Bouken Desho Desho
+8065,Lost my music
+8067,Koi
 8068,Saraba Itoshiki Kanashimi tachi yo
 8069,Pinky Jones
 8070,Nippon Egao Hyakkei
 8071,Tsurezure Monochrome
+8072,Alchemy
 8073,Ren'ai Circulation
 8074,Coco☆Nuts
 8075,Kaibutsu
+8076,SHINY DAYS
 8077,Umapyoi Densetsu
 8078,Fiction
 8079,Wani to Shampoo
 8080,Mouretsu Uchuu Koukyoukyoku - Dai Nana Gakushou 'Mugen no Ai'
 8081,Hoero
+8082,POPPY PAPPY DAY
 8083,Happy Jam Jam
 8084,DNA Rhapsody
+8085,Chai Maxx
 8086,Hashire!
+8087,Pa Pi Pu Pe POP!
+8088,Dai Rokkan
 9001,Todoke! Idol
 9002,Snow Wings
 9003,Tulip
@@ -336,7 +378,6 @@ id,name
 9006,Junjou Midnight Densetsu
 9007,Love Destiny
 9008,Samakani
-9009,BEYOND THE STARLIGHT
 9010,Inochi Moyashite Koiseyo Otome
 9011,Sweet Witches' Night ~Rokuninme wa Daare~
 9012,Sakura no Koro
@@ -348,8 +389,6 @@ id,name
 9018,Girls in the Frontier
 9019,Doremi Factory
 9020,Starry-Go-Round
-9021,Girls in the Frontier
-9022,Mujuuryoku Shuttle
 9023,comic cosmic
 9024,TRUE COLORS
 9025,Mirror Ball Love
@@ -367,14 +406,21 @@ id,name
 9037,Seikan Sekai
 9038,Tropical Girl
 9039,Street Runway
+9040,New bright stars
 9041,Memory Blossom
+9042,No One Knows
 9043,Sasanoha ni Utakata ni
 9044,Gyouten! Sea World!
+9045,MOTTO!
 9046,Dancing Dead
+9047,Majoram Therapie
 9048,Majoram Therapie [MomoClo x Cinderella Ver]
+9049,Nightwear
 9050,Chocolate? Lemonade? Docchi??
+9051,Mirai Compass
+9052,Yuukyuu no Hoshisuzushi
+9053,Mugen Loop da LOVE
 9901,Yes! Party Time!!
-9902,Yes! Party Time!!
 9903,Vast world
 9904,Stage Bye Stage
 9906,Aozora Yell
@@ -383,3 +429,4 @@ id,name
 9909,Oumuamua ni Kouun o
 9910,Akogare Stitch
 9911,Himawari Mark wo Sagase!
+9913,ACE
